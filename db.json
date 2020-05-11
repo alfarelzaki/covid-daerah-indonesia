@@ -104,7 +104,8 @@
 				"meninggal" : 1
 			}
 		
-		]
+		],
+
 		"daerah2" : [
 			{
 				"provinsi" : "Kepulauan Riau",
@@ -208,7 +209,6 @@
 				"sembuh" : 43,
 				"meninggal" : 16
 			}
-		]
-		     
+		]    
     }
 }
