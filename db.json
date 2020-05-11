@@ -142,7 +142,7 @@
 				"positif" : 12,
 				"sembuh" : 1,
 				"meninggal" : 0
-			}
+			},
 			{
 				"provinsi" : "Papua",
 				"positif" : 248,
